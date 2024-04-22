@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "00e0",
+      "text": "hello",
+      "completed": false
+    },
+    {
+      "id": "e66b",
+      "text": "hi",
+      "completed": true
+    }
+  ]
+}
